@@ -28,7 +28,7 @@
 1. Clone o repositório:
 
 ```sh
-git clone <url-do-repositorio>
+git clone git@github.com:Ana-Alice-Honorio/linktree-insta.git
 ```
 
 2. Estrutura dos arquivos:
